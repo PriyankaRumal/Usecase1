@@ -1,0 +1,14 @@
+D:\Priti\UC1\bin\Debug\netcoreapp3.1\UC1.exe
+D:\Priti\UC1\bin\Debug\netcoreapp3.1\UC1.deps.json
+D:\Priti\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.json
+D:\Priti\UC1\bin\Debug\netcoreapp3.1\UC1.runtimeconfig.dev.json
+D:\Priti\UC1\bin\Debug\netcoreapp3.1\UC1.dll
+D:\Priti\UC1\bin\Debug\netcoreapp3.1\UC1.pdb
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.AssemblyReference.cache
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfoInputs.cache
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.AssemblyInfo.cs
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.csproj.CoreCompileInputs.cache
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.dll
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.pdb
+D:\Priti\UC1\obj\Debug\netcoreapp3.1\UC1.genruntimeconfig.cache
